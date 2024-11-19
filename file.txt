@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Vision - EcoOps Platform</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50">
+    <nav class="bg-green-600 text-white p-4">
+        <div class="container mx-auto">
+            <div class="flex justify-between items-center">
+                <h1 class="text-2xl font-bold">EcoOps Platform</h1>
+                <div class="space-x-4">
+                    <a href="index.html" class="px-4 py-2 text-green-200 hover:text-green-100">Dashboard</a>
+                    <a href="knowledge.html" class="px-4 py-2 text-green-200 hover:text-green-100">Knowledge Transfer</a>
+                    <a href="projects.html" class="px-4 py-2 text-green-200 hover:text-green-100">Project Tracking</a>
+                    <a href="tokens.html" class="px-4 py-2 text-green-200 hover:text-green-100">Token Management</a>
+                    <a href="community.html" class="px-4 py-2 text-green-200 hover:text-green-100">Community Hub</a>
+                    <a href="impact.html" class="px-4 py-2 text-green-200 hover:text-green-100">Impact Analysis</a>
+                    <a href="vision.html" class="px-4 py-2 text-green-100 border-b-2 border-green-100">Our Vision</a> 
+                </div>
+            </div>
+        </div>
+    </nav>
+    <main class="container mx-auto p-8">
+        <h2 class="text-3xl font-bold mb-6">Our Vision: A Tapestry of Life</h2>
+        <p class="text-gray-600 mb-4">
+            In the heart of our technological endeavors, we pause to acknowledge the profound interconnectedness that binds us to the natural world. 
+            EcoOps is more than just code and data; it's a bridge between ancient wisdom and modern tools, a symphony of human ingenuity and ecological harmony.
+        </p>
+
+        <h3 class="text-xl font-semibold mb-4">Mirroring Nature's Patterns</h3>
+        <p class="text-gray-600 mb-4">
+            Like mycelial networks weaving through the forest floor, like watersheds connecting mountains to oceans, EcoOps seeks to emulate the intricate patterns of life. 
+            We envision a digital ecosystem where:
+        </p>
+        <ul class="list-disc text-gray-600 ml-6 mb-4">
+            <li>Knowledge flows like water, nourishing communities and fostering collaboration.</li>
+            <li>Tokens bloom like flowers, rewarding those who nurture and protect our planet.</li>
+            <li>Communities intertwine like root systems, supporting each other and strengthening resilience.</li>
+            <li>Positive impact ripples outward, creating a cascade of beneficial change.</li>
+        </ul>
+
+        <h3 class="text-xl font-semibold mb-4">A Biomimetic Flow of Time</h3>
+        <p class="text-gray-600 mb-4">
+            Imagine a timeline that pulses with the rhythms of nature,  individual and collective guided by informed participant/owners.
+            EcoOps provides a space to:
+        </p>
+        <ul class="list-disc text-gray-600 ml-6 mb-4">
+            <li>Track measurable progress in restoring ecosystems and protecting biodiversity.</li>
+            <li>Sense the nuanced shifts in ecological health, even those that defy easy quantification.</li>
+            <li>Celebrate the stories of individuals and communities making a difference.</li>
+            <li>Connect with the wisdom of traditional knowledge keepers and the passion of youth eco-clubs.</li>
+        </ul>
+
+        <h3 class="text-xl font-semibold mb-4">Exotopia Multiverse: Expanding Our Horizons</h3>
+        <p class="text-gray-600 mb-4">
+            With Exotopia Multiverse, we venture beyond our own planet, exploring the vastness of space and the potential for life on other worlds. 
+            By weaving NASA's exoplanet data into a three.js tapestry, we invite users to:
+        </p>
+        <ul class="list-disc text-gray-600 ml-6 mb-4">
+            <li>Experience the awe-inspiring diversity of celestial bodies.</li>
+            <li>Contemplate the fragility and interconnectedness of life across the cosmos.</li>
+            <li>Contribute to a collective understanding of our place in the universe.</li>
+        </ul>
+
+        <h3 class="text-xl font-semibold mb-4">A Call to Action</h3>
+        <p class="text-gray-600 mb-4">
+            EcoOps is an invitation to join a global movement of ecological stewards, to weave our individual threads into a tapestry of life that honors our common origins and celebrates the diversity of our planet. 
+            Together, we can create a future where technology and nature dance in harmony, and where the wellbeing of all beings is intertwined.
+        </p>
+
+    </main>
+    <footer class="bg-gray-800 text-white mt-8 py-6">
+        <div class="container mx-auto px-4">
+            <div class="text-center text-gray-400">
+                <p>© 2024 EcoOps Platform - Generated: 2024-11-17</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - EcoOps Platform</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50">
+    <nav class="bg-green-600 text-white p-4">
+        <div class="container mx-auto">
+            <div class="flex justify-between items-center">
+                <h1 class="text-2xl font-bold">EcoOps Platform</h1>
+                <div class="space-x-4">
+                    
+                <a href="index.html" class="px-4 py-2 text-green-100 border-b-2 border-green-100">
+                    Dashboard
+                </a>
+            
+                <a href="knowledge.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Knowledge Transfer
+                </a>
+            
+                <a href="projects.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Project Tracking
+                </a>
+            
+                <a href="tokens.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Token Management
+                </a>
+            
+                <a href="community.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Community Hub
+                </a>
+            
+                <a href="impact.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Impact Analysis
+                </a>
+            
+                </div>
+            </div>
+        </div>
+    </nav>
+    <main class="container mx-auto p-8">
+        
+        <div class="space-y-6">
+            <div>
+                <h2 class="text-3xl font-bold">Dashboard</h2>
+                <p class="text-gray-600">Overall ecosystem operations status and metrics</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="bg-white p-6 rounded-lg shadow-sm">
+                    <h3 class="font-semibold text-lg">Biodiversity Metrics</h3>
+                    <div class="mt-4 space-y-2">
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">Species Monitored</span>
+                            <span class="font-bold">1,234</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">Active Regions</span>
+                            <span class="font-bold">12</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">Conservation Status</span>
+                            <span class="text-green-600 font-bold">Positive</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 rounded-lg shadow-sm">
+                    <h3 class="font-semibold text-lg">Knowledge Transfer</h3>
+                    <div class="mt-4 space-y-2">
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">Active Holders</span>
+                            <span class="font-bold">45</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">Practices Documented</span>
+                            <span class="font-bold">89</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">Verification Rate</span>
+                            <span class="text-green-600 font-bold">92%</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 rounded-lg shadow-sm">
+                    <h3 class="font-semibold text-lg">Token Economy</h3>
+                    <div class="mt-4 space-y-2">
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">POAPs Issued</span>
+                            <span class="font-bold">2,345</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">Active SBTs</span>
+                            <span class="font-bold">567</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="text-gray-600">NFT Collections</span>
+                            <span class="font-bold">12</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </main>
+    <footer class="bg-gray-800 text-white mt-8 py-6">
+        <div class="container mx-auto px-4">
+            <div class="text-center text-gray-400">
+                <p>© 2024 EcoOps Platform - Generated: 2024-11-17</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+        
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Transfer - EcoOps Platform</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50">
+    <nav class="bg-green-600 text-white p-4">
+        <div class="container mx-auto">
+            <div class="flex justify-between items-center">
+                <h1 class="text-2xl font-bold">EcoOps Platform</h1>
+                <div class="space-x-4">
+                    
+                <a href="index.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Dashboard
+                </a>
+            
+                <a href="knowledge.html" class="px-4 py-2 text-green-100 border-b-2 border-green-100">
+                    Knowledge Transfer
+                </a>
+            
+                <a href="projects.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Project Tracking
+                </a>
+            
+                <a href="tokens.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Token Management
+                </a>
+            
+                <a href="community.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Community Hub
+                </a>
+            
+                <a href="impact.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Impact Analysis
+                </a>
+            
+                </div>
+            </div>
+        </div>
+    </nav>
+    <main class="container mx-auto p-8">
+        
+        <div class="space-y-6">
+            <div>
+                <h2 class="text-3xl font-bold">Traditional Knowledge Transfer</h2>
+                <p class="text-gray-600">Documentation and preservation of traditional ecological practices</p>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold mb-4">Active Knowledge Holders</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div class="border p-4 rounded-lg">
+                        <div class="flex justify-between items-center">
+                            <span class="font-medium">Traditional Farming</span>
+                            <span class="text-green-600">12 Elders</span>
+                        </div>
+                        <div class="mt-2 space-y-1 text-sm text-gray-600">
+                            <p>• Seasonal planting techniques</p>
+                            <p>• Soil management practices</p>
+                            <p>• Seed preservation methods</p>
+                        </div>
+                    </div>
+                    
+                    <div class="border p-4 rounded-lg">
+                        <div class="flex justify-between items-center">
+                            <span class="font-medium">Water Management</span>
+                            <span class="text-green-600">8 Elders</span>
+                        </div>
+                        <div class="mt-2 space-y-1 text-sm text-gray-600">
+                            <p>• Traditional irrigation systems</p>
+                            <p>• Water conservation methods</p>
+                            <p>• Watershed protection</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold mb-4">Documentation Progress</h3>
+                <div class="space-y-4">
+                    <div class="border p-4 rounded-lg">
+                        <div class="flex justify-between items-center mb-2">
+                            <span class="font-medium">Video Documentation</span>
+                            <span class="text-green-600">45 Sessions</span>
+                        </div>
+                        <div class="w-full bg-gray-200 rounded-full h-2">
+                            <div class="bg-green-600 rounded-full h-2" style="width: 75%"></div>
+                        </div>
+                    </div>
+
+                    <div class="border p-4 rounded-lg">
+                        <div class="flex justify-between items-center mb-2">
+                            <span class="font-medium">Written Records</span>
+                            <span class="text-green-600">89 Documents</span>
+                        </div>
+                        <div class="w-full bg-gray-200 rounded-full h-2">
+                            <div class="bg-green-600 rounded-full h-2" style="width: 60%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </main>
+    <footer class="bg-gray-800 text-white mt-8 py-6">
+        <div class="container mx-auto px-4">
+            <div class="text-center text-gray-400">
+                <p>© 2024 EcoOps Platform - Generated: 2024-11-17</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+        
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Tracking - EcoOps Platform</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50">
+    <nav class="bg-green-600 text-white p-4">
+        <div class="container mx-auto">
+            <div class="flex justify-between items-center">
+                <h1 class="text-2xl font-bold">EcoOps Platform</h1>
+                <div class="space-x-4">
+                    
+                <a href="index.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Dashboard
+                </a>
+            
+                <a href="knowledge.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Knowledge Transfer
+                </a>
+            
+                <a href="projects.html" class="px-4 py-2 text-green-100 border-b-2 border-green-100">
+                    Project Tracking
+                </a>
+            
+                <a href="tokens.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Token Management
+                </a>
+            
+                <a href="community.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Community Hub
+                </a>
+            
+                <a href="impact.html" class="px-4 py-2 text-green-200 hover:text-green-100">
+                    Impact Analysis
+                </a>
+            
+                </div>
+            </div>
+        </div>
+    </nav>
+    <main class="container mx-auto p-8">
+        
+        <div class="space-y-6">
+            <div>
+                <h2 class="text-3xl font-bold">Project Tracking</h2>
+                <p class="text-gray-600">Monitor and manage active restoration projects</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div class="bg-white p-6 rounded-lg shadow-sm">
+                    <h3 class="text-xl font-semibold mb-4">Wetland Restoration</h3>
+                    <div class="space-y-4">
+                        <div class="flex justify-between items-center">
+                            <span class="text-gray-600">Progress</span>
+                            <span class="font-bold">75%</span>
+                        </div>
+                        <div class="w-full bg-gray-200 rounded-full h-2">
+                            <div class="bg-green-600 rounded-full h-2" style="width: 75%"></div>
+                        </div>
+                        <div class="grid grid-cols-2 gap-4 text-sm">
+                            <div>
+                                <span class="text-gray-600">Participants:</span>
+                                <span class="font-bold ml-2">45</span>
+                            </div>
+                            <div>
+                                <span class="text-gray-600">Area:</span>
+                                <span class="font-bold ml-2">12 ha</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white p-6 rounded-lg shadow-sm">
+                    <h3 class="text-xl font-semibold mb-4">Forest Conservation</h3>
+                    <div class="space-y-4">
+                        <div class="flex justify-between items-center">
+                            <span class="text-gray-600">Progress</span>
+                            <span class="font-bold">60%</span>
+                        </div>
+                        <div class="w-full bg-gray-200 rounded-full h-2">
+                            <div class="bg-green-600 rounded-full h-2" style="width: 60%"></div>
+                        </div>
+                        <div class="grid grid-cols-2 gap-4 text-sm">
+                            <div>
+                                <span class="text-gray-600">Participants:</span>
+                                <span class="font-bold ml-2">32</span>
+                            </div>
+                            <div>
+                                <span class="text-gray-600">Area:</span>
+                                <span class="font-bold ml-2">8 ha</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </main>
+    <footer class="bg-gray-800 text-white mt-8 py-6">
+        <div class="container mx-auto px-4">
+            <div class="text-center text-gray-400">
+                <p>© 2024 EcoOps Platform - Generated: 2024-11-17</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Vision - EcoOps Platform</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50">
+  <nav class="bg-green-600 text-white p-4">
+    <div class="container mx-auto">
+      <div class="flex justify-between items-center">
+        <h1 class="text-2xl font-bold">EcoOps Platform</h1>
+        <div class="space-x-4">
+          <a href="index.html" class="px-4 py-2 text-green-200 hover:text-green-100">Dashboard</a>
+          <a href="knowledge.html" class="px-4 py-2 text-green-200 hover:text-green-100">Knowledge Transfer</a>
+          <a href="projects.html" class="px-4 py-2 text-green-200 hover:text-green-100">Project Tracking</a>
+          <a href="tokens.html" class="px-4 py-2 text-green-200 hover:text-green-100">Token Management</a>
+          <a href="community.html" class="px-4 py-2 text-green-200 hover:text-green-100">Community Hub</a>
+          <a href="impact.html" class="px-4 py-2 text-green-200 hover:text-green-100">Impact Analysis</a>
+          <a href="vision.html" class="px-4 py-2 text-green-100 border-b-2 border-green-100">Our Vision</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <main class="container mx-auto p-8">
+    <h2 class="text-3xl font-bold mb-6">Our Vision: A Tapestry of Life</h2>
+    <p class="text-gray-600 mb-4">
+      In the heart of our technological endeavors, we pause to acknowledge the profound interconnectedness that binds us to the natural world.
+      EcoOps is more than just code and data; it's a bridge between ancient wisdom and modern tools, a symphony of human
+      ingenuity and ecological harmony.
+    </p>
+
+    <h3 class="text-xl font-semibold mb-4">Mirroring Nature's Patterns</h3>
+    <p class="text-gray-600 mb-4">
+      Like mycelial networks weaving through the forest floor, like watersheds connecting mountains to oceans, EcoOps seeks
+      to emulate the intricate patterns of life.
+      We envision a digital ecosystem where:
+    </p>
+    <ul class="list-disc text-gray-600 ml-6 mb-4">
+      <li>Knowledge flows like water, nourishing communities and fostering collaboration.</li>
+      <li>Tokens bloom like flowers, rewarding those who nurture and protect our planet.</li>
+      <li>Communities intertwine like root systems, supporting each other and strengthening resilience.</li>
+      <li>Positive impact ripples outward, creating a cascade of beneficial change.</li>
+    </ul>
+
+    <h3 class="text-xl font-semibold mb-4">A Biomimetic Flow of Time</h3>
+    <p class="text-gray-600 mb-4">
+      Imagine a timeline that pulses with the rhythms of nature, where individual and collective actions are guided by
+      informed participant/owners.
+      EcoOps provides a space to:
+    </p>
+    <ul class="list-disc text-gray-600 ml-6 mb-4">
+      <li>Track measurable progress in restoring ecosystems and protecting biodiversity.</li>
+      <li>Sense the nuanced shifts in ecological health, even those that defy easy quantification.</li>
+      <li>Celebrate the stories of individuals and communities making a difference.</li>
+      <li>Connect with the wisdom of traditional knowledge keepers and the passion of youth eco-clubs.</li>
+    </ul>
+
+    <h3 class="text-xl font-semibold mb-4">Token Issuance Timelines</h3>
+    <p class="text-gray-600 mb-4">
+      Just as nature unfolds in cycles of growth and renewal, EcoOps tokens reflect the rhythms of ecological restoration. 
+      These tokens mark milestones, acknowledge contributions, and incentivize ongoing participation.
+    </p>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="bg-white p-6 rounded-lg shadow-sm">
+        <h4 class="text-lg font-semibold mb-4">Predictable Timelines</h4>
+        <ul class="list-disc text-gray-600 ml-6 mb-4">
+          <li>**Seasonal Cycles:** Tokens issued for completing tasks aligned with natural cycles (e.g., planting seasons, migration patterns).</li>
+          <li>**Project Milestones:** Tokens awarded upon reaching specific project goals (e.g., habitat restoration targets, species reintroduction success).</li>
+          <li>**Skill Development:** Tokens earned through completing training modules and demonstrating ecological knowledge.</li>
+        </ul>
+      </div>
+      <div class="bg-white p-6 rounded-lg shadow-sm">
+        <h4 class="text-lg font-semibold mb-4">Nuanced Timelines</h4>
+        <ul class="list-disc text-gray-600 ml-6 mb-4">
+          <li>**Community Engagement:** Tokens recognizing contributions to knowledge sharing, collaboration, and mutual support within the EcoOps community.</li>
+          <li>**Ecological Stewardship:** Tokens awarded for long-term commitment to ecological restoration and demonstrated positive impact on biodiversity.</li>
+          <li>**Emergent Discoveries:** Tokens acknowledging unexpected contributions, innovative solutions, and serendipitous findings that emerge from community engagement with nature.</li>
+        </ul>
+      </div>
+    </div>
+
+    <h3 class="text-xl font-semibold mb-4">Exotopia Multiverse: Expanding Our Horizons</h3>
+    <p class="text-gray-600 mb-4">
+      With Exotopia Multiverse, we venture beyond our own planet, exploring the vastness of space and the potential for
+      life on other worlds.
+      By weaving NASA's exoplanet data into a three.js tapestry, we invite users to:
+    </p>
+    <ul class="list-disc text-gray-600 ml-6 mb-4">
+      <li>Experience the awe-inspiring diversity of celestial bodies.</li>
+      <li>Contemplate the fragility and interconnectedness of life across the cosmos.</li>
+      <li>Contribute to a collective understanding of our place in the universe.</li>
+    </ul>
+
+    <h3 class="text-xl font-semibold mb-4">A Call to Action</h3>
+    <p class="text-gray-600 mb-4">
+      EcoOps is an invitation to join a global movement of ecological stewards, to weave our individual threads into a
+      tapestry of life that honors our common origins and celebrates the diversity of our planet.
+      Together, we can create a future where technology and nature dance in harmony, and where the wellbeing of all beings
+      is intertwined.
+    </p>
+
+  </main>
+  <footer class="bg-gray-800 text-white mt-8 py-6">
+    <div class="container mx-auto px-4">
+      <div class="text-center text-gray-400">
+        <p>© 2024 EcoOps Platform - Generated: 2024-11-17</p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Token Management - EcoOps Platform</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50">
+    <nav class="bg-green-600 text-white p-4">
+        <div class="container mx-auto">
+            <div class="flex justify-between items-center">
+                <h1 class="text-2xl font-bold">EcoOps Platform</h1>
+                <div class="space-x-4">
+                    <a href="index.html" class="px-4 py-2 text-green-200 hover:text-green-100">Dashboard</a>
+                    <a href="knowledge.html" class="px-4 py-2 text-green-200 hover:text-green-100">Knowledge Transfer</a>
+                    <a href="projects.html" class="px-4 py-2 text-green-200 hover:text-green-100">Project Tracking</a>
+                    <a href="tokens.html" class="px-4 py-2 text-green-100 border-b-2 border-green-100">Token Management</a>
+                    <a href="community.html" class="px-4 py-2 text-green-200 hover:text-green-100">Community Hub</a>
+                    <a href="impact.html" class="px-4 py-2 text-green-200 hover:text-green-100">Impact Analysis</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <main class="container mx-auto p-8">
+
+        <h2 class="text-3xl font-bold mb-6">Token Management</h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+            <div class="bg-white p-6 rounded-lg shadow-sm">
+                <h3 class="text-lg font-semibold mb-4">POAPs (Proof of Attendance Protocol)</h3>
+                <p class="text-gray-600">Recognize and reward participation in EcoOps activities and events.</p>
+                <div class="mt-4 space-y-2">
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Total POAPs Issued:</span>
+                        <span class="font-bold">2,345</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Unique Events:</span>
+                        <span class="font-bold">34</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow-sm">
+                <h3 class="text-lg font-semibold mb-4">SBTs (Soulbound Tokens)</h3>
+                <p class="text-gray-600">Represent skills, roles, and contributions within the EcoOps ecosystem.</p>
+                <div class="mt-4 space-y-2">
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Active SBT Holders:</span>
+                        <span class="font-bold">567</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Unique SBT Types:</span>
+                        <span class="font-bold">12</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow-sm">
+                <h3 class="text-lg font-semibold mb-4">NFTs (Non-Fungible Tokens)</h3>
+                <p class="text-gray-600">Represent unique achievements, contributions, and ownership within EcoOps projects.</p>
+                <div class="mt-4 space-y-2">
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">NFT Collections:</span>
+                        <span class="font-bold">8</span>
+                    </div>
+                    <div class="flex justify-between">
+                        <span class="text-gray-600">Total NFTs Minted:</span>
+                        <span class="font-bold">1,875</span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="mt-8">
+            <h3 class="text-xl font-semibold mb-4">Token Distribution and Impact</h3>
+            <p class="text-gray-600">Track the distribution of tokens and their impact on ecosystem restoration and community engagement.</p>
+            </div>
+    </main>
+    <footer class="bg-gray-800 text-white mt-8 py-6">
+        <div class="container mx-auto px-4">
+            <div class="text-center text-gray-400">
+                <p>© 2024 EcoOps Platform - Generated: 2024-11-17</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wallet - EcoOps Platform</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50">
+    <nav class="bg-green-600 text-white p-4">
+        <div class="container mx-auto">
+            <div class="flex justify-between items-center">
+                <h1 class="text-2xl font-bold">EcoOps Platform</h1>
+                <div class="space-x-4">
+                    <a href="index.html" class="px-4 py-2 text-green-200 hover:text-green-100">Dashboard</a>
+                    <a href="knowledge.html" class="px-4 py-2 text-green-200 hover:text-green-100">Knowledge Transfer</a>
+                    <a href="projects.html" class="px-4 py-2 text-green-200 hover:text-green-100">Project Tracking</a>
+                    <a href="tokens.html" class="px-4 py-2 text-green-200 hover:text-green-100">Token Management</a>
+                    <a href="community.html" class="px-4 py-2 text-green-200 hover:text-green-100">Community Hub</a>
+                    <a href="impact.html" class="px-4 py-2 text-green-200 hover:text-green-100">Impact Analysis</a>
+                    <a href="wallet.html" class="px-4 py-2 text-green-100 border-b-2 border-green-100">Wallet</a> 
+                </div>
+            </div>
+        </div>
+    </nav>
+    <main class="container mx-auto p-8">
+        <h2 class="text-3xl font-bold mb-6">EcoOps Wallet</h2>
+        <p class="text-gray-600 mb-4">Manage your EcoOps tokens and connect to various blockchain networks.</p>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+            <div class="bg-white p-6 rounded-lg shadow-sm">
+                <h3 class="text-lg font-semibold mb-4">NEAR Protocol</h3>
+                <img src="path/to/near-logo.png" alt="NEAR Protocol Logo" class="h-8 mb-4">
+                <p class="text-gray-600">Balance: <span class="font-bold">0 NEAR</span></p>
+                <button class="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Connect Wallet</button>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow-sm">
+                <h3 class="text-lg font-semibold mb-4">Flow</h3>
+                <img src="path/to/flow-logo.png" alt="Flow Logo" class="h-8 mb-4">
+                <p class="text-gray-600">Balance: <span class="font-bold">0 FLOW</span></p>
+                <button class="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Connect Wallet</button>
+            </div>
+
+            <div class="bg-white p-6 rounded-lg shadow-sm">
+                <h3 class="text-lg font-semibold mb-4">Tezos</h3>
+                <img src="path/to/tezos-logo.png" alt="Tezos Logo" class="h-8 mb-4">
+                <p class="text-gray-600">Balance: <span class="font-bold">0 XTZ</span></p>
+                <button class="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Connect Wallet</button>
+            </div>
+
+            </div>
+    </main>
+    <footer class="bg-gray-800 text-white mt-8 py-6">
+        <div class="container mx-auto px-4">
+            <div class="text-center text-gray-400">
+                <p>© 2024 EcoOps Platform - Generated: 2024-11-17</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

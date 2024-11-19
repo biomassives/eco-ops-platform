@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoOps Platform</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- Load localforage first -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/localforage/1.10.0/localforage.min.js"></script>
+    <!-- Then load our header component -->
+    <script src="/header.js"></script>
+</head>
+<body>
+    <eco-header>
+        <h1 class="text-3xl font-bold mb-2">Page Title</h1>
+        <p class="text-xl">Page subtitle or description</p>
+    </eco-header>
+
+    <main class="container mx-auto p-8">
+        <!-- Page content here -->
+
+	<h4>kiva</h4>
+    </main>
+
+    <script>
+        // Example of using localforage in your page
+        document.addEventListener('DOMContentLoaded', function() {
+            const store = localforage.createInstance({
+                name: 'ecoops-platform'
+            });
+
+            // Example: Save page data
+            async function savePageData() {
+                try {
+                    await store.setItem('pageData', {
+                        lastVisited: new Date().toISOString(),
+                        userPreferences: {
+                            theme: 'light',
+                            fontSize: 'medium'
+                        }
+                    });
+                } catch (err) {
+                    console.warn('Could not save page data:', err);
+                }
+            }
+
+            // Example: Load page data
+            async function loadPageData() {
+                try {
+                    const pageData = await store.getItem('pageData');
+                    if (pageData) {
+                        console.log('Last visited:', pageData.lastVisited);
+                    }
+                } catch (err) {
+                    console.warn('Could not load page data:', err);
+                }
+            }
+
+            // Initialize page
+            loadPageData();
+        });
+    </script>
+</body>
+</html>
